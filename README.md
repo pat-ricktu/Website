@@ -1,1 +1,3 @@
 # Website
+
+This is a website I created in high school using HTML and CSS. The website was designed where the user can interact and navigate through the website by pressing buttons. However, the original website was stored on the school file system, which is currently closed. Nonetheless, the code here represents my HTML files that I used for my website, which could be improved upon because I created that website with no knowledge on coding. I also made my buttons with images that I saved, but I later used CSS to make them look aesthetically pleasing. Unfortunately, I could not recover my files for the CSS, but with my prior knowledge, I can relearn and improve my coding for creating websites! 
